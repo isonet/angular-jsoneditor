@@ -1,5 +1,9 @@
 # angular-jsoneditor [![npm](https://img.shields.io/npm/v/angular-jsoneditor.svg?style=flat-square)](https://github.com/isonet/angular-jsoneditor)[![licence](https://img.shields.io/npm/l/angular-jsoneditor.svg?style=flat-square)](https://img.shields.io/npm/l/angular-jsoneditor.svg)[![Codacy grade](https://img.shields.io/codacy/grade/5483756bdff94ba6bc1bf530b24a3221.svg?style=flat-square)](https://github.com/isonet/angular-jsoneditor)
 
+I have forked this jsoneditor to make a readOnly option that works.
+If you would like to make a readOnly json editor it will only work on 'text' mode.
+Just pass 'readOnly: true' property in the 'options' object.
+
 Angular wrapper for [jsoneditor](https://github.com/josdejong/jsoneditor)
 
 ## Requirements
